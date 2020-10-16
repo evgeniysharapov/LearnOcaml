@@ -1,0 +1,21 @@
+#+AUTHOR: Evgeniy N. Sharapov
+#+TITLE:  Learning Ocaml
+
+
+* Installation 
+
+  Install OPAM 
+
+  When i had installed it in WSL it complained about Linux kernel issues.
+
+  Fixing
+
+* Learn Through Contests 
+
+  
+
+* Sources of Information
+
+  - This is probably the best on overall introduction into Ocaml and
+    it's ecosystem: https://dev.realworldocaml.org/toc.html
+
