@@ -10,9 +10,19 @@
 
   Fixing
 
+
 * Learn Through Contests 
 
+** Kattis
+
+   Located at https://open.kattis.com/problems
+
+   Here's a page describing what's expected of submitted code
+   https://open.kattis.com/help/ocaml
   
+   Based on that information one can solve one problem by submitting
+   example code (https://open.kattis.com/problems/different).
+   
 
 * Sources of Information
 
