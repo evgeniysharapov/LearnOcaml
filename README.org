@@ -1,6 +1,7 @@
 #+AUTHOR: Evgeniy N. Sharapov
 #+TITLE:  Learning Ocaml
 
+Learning Ocaml Through Code Contests and Simple Applications
 
 * Installation 
 
