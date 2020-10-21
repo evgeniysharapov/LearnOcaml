@@ -1,5 +1,4 @@
 (* Different ciphers *)
-
 (* 
  Shift ciphers
  based on https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/shift-cipher
